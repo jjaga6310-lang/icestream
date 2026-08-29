@@ -1,0 +1,2 @@
+dataset,total_rows,valid_rows,invalid_rows,quality_score_percent,status
+sensor_readings.csv,5010,4950,60,98.8,PASSED_WITH_QUARANTINE

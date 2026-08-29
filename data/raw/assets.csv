@@ -1,0 +1,21 @@
+asset_id,asset_name,asset_type,location,status,created_at
+AST-0001,IceStream Asset 0001,Delivery Van,Chennai,ACTIVE,2025-10-21 18:19:38.402454
+AST-0002,IceStream Asset 0002,Refrigerated Truck,Bangalore,ACTIVE,2026-04-16 18:19:38.402480
+AST-0003,IceStream Asset 0003,Delivery Van,Delhi,MAINTENANCE,2026-05-01 18:19:38.402492
+AST-0004,IceStream Asset 0004,Delivery Van,Mumbai,ACTIVE,2026-04-25 18:19:38.402499
+AST-0005,IceStream Asset 0005,Refrigerated Truck,Bangalore,ACTIVE,2026-07-02 18:19:38.402506
+AST-0006,IceStream Asset 0006,Delivery Van,Bangalore,ACTIVE,2024-08-10 18:19:38.402513
+AST-0007,IceStream Asset 0007,Delivery Van,Mumbai,ACTIVE,2024-12-03 18:19:38.402519
+AST-0008,IceStream Asset 0008,Cold Storage,Kolkata,MAINTENANCE,2024-06-12 18:19:38.402525
+AST-0009,IceStream Asset 0009,Refrigerated Truck,Delhi,ACTIVE,2025-10-18 18:19:38.402532
+AST-0010,IceStream Asset 0010,Refrigerated Truck,Bangalore,INACTIVE,2025-08-19 18:19:38.402538
+AST-0011,IceStream Asset 0011,Refrigerated Truck,Chennai,ACTIVE,2025-07-27 18:19:38.402544
+AST-0012,IceStream Asset 0012,Cold Storage,Pune,ACTIVE,2026-06-15 18:19:38.402551
+AST-0013,IceStream Asset 0013,Delivery Van,Mumbai,ACTIVE,2023-12-28 18:19:38.402567
+AST-0014,IceStream Asset 0014,Cold Storage,Chennai,ACTIVE,2024-04-01 18:19:38.402574
+AST-0015,IceStream Asset 0015,Delivery Van,Pune,MAINTENANCE,2025-07-24 18:19:38.402580
+AST-0016,IceStream Asset 0016,Delivery Van,Bangalore,ACTIVE,2026-06-13 18:19:38.402586
+AST-0017,IceStream Asset 0017,Delivery Van,Bangalore,ACTIVE,2026-05-09 18:19:38.402592
+AST-0018,IceStream Asset 0018,Refrigerated Truck,Kolkata,ACTIVE,2025-10-18 18:19:38.402601
+AST-0019,IceStream Asset 0019,Cold Storage,Delhi,ACTIVE,2026-02-13 18:19:38.402607
+AST-0020,IceStream Asset 0020,Cold Storage,Hyderabad,ACTIVE,2025-10-29 18:19:38.402613

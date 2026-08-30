@@ -1,0 +1,13 @@
+checked_at,layer,dataset,status,rows,missing_values,duplicates,file_size_kb
+2026-08-30T09:18:01,raw,assets.csv,PASSED,20,0,0,1.79
+2026-08-30T09:18:01,raw,inventory.csv,PASSED,100,0,0,6.19
+2026-08-30T09:18:01,raw,maintenance_records.csv,PASSED,200,0,0,22.42
+2026-08-30T09:18:02,raw,sensor_readings.csv,PASSED,5010,60,10,319.18
+2026-08-30T09:18:02,raw,shipments.csv,PASSED,500,0,0,49.92
+2026-08-30T09:18:02,processed,assets.csv,PASSED,20,0,0,1.79
+2026-08-30T09:18:02,processed,inventory.csv,PASSED,100,0,0,6.19
+2026-08-30T09:18:02,processed,maintenance_records.csv,PASSED,200,0,0,22.42
+2026-08-30T09:18:02,processed,sensor_readings.csv,PASSED,4950,0,0,315.59
+2026-08-30T09:18:02,processed,shipments.csv,PASSED,500,0,0,49.92
+2026-08-30T09:18:02,processed,sensor_features.csv,PASSED,4950,0,0,764.1
+2026-08-30T09:18:02,quarantine,sensor_readings.csv,PASSED,60,60,0,5.02
